@@ -1,6 +1,6 @@
 # LoginFirebase
 
-![Preview 1](/preview1.png);
+![Preview 1](./src/assets/img/preview1.png);
 
 # link deployment
 
