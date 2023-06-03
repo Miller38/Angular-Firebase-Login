@@ -15,7 +15,7 @@ import { VerificarCorreoComponent } from './components/verificar-correo/verifica
 import { RecuperarPasswordComponent } from './components/recuperar-password/recuperar-password.component';
 import { SpinnerComponent } from './shared/spinner/spinner.component';
 import { ReactiveFormsModule } from '@angular/forms';
-import { environment } from './environments/environments';
+import { environment } from './environments/environment';
 
 @NgModule({
   declarations: [
